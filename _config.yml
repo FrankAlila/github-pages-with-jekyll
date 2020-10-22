@@ -1,6 +1,10 @@
 title: Franks Github Pages
 author: Frank Alila
 email: frablazen@gmail.com
+theme: minima
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the new learning on Github I know I can get all this in 6 weeks flat, one step at a time.
 
